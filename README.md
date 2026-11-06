@@ -19,3 +19,7 @@ R-squared between about 0.78 and 0.85 across model versions in the saved noteboo
 ## Data
 
 Train and test files, included.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (housingprice) that differ from the files above.
